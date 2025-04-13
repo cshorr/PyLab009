@@ -1,3 +1,4 @@
+# Chris shortt 4/13/2025: this was a hard one, even though it was copy and paste there was a lot of new stuff and even some old stuff i dont quite understand yet. 
 import json
 import os
 import random
